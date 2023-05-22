@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ErikaDuenas
 - 👀 I’m a software development engineering student.
-- 🌱 I’m currently learning JavaPython.
-- 💞️ I’m looking to collaborate on projects that allow me to learn Java and Python.
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on projects that allow me to learn Java.
 - 📫 How to reach me: Erika.drincon@gmail.com
 <!---
 ErikaDuenas/ErikaDuenas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
